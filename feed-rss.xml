@@ -1,9 +1,31 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 	<channel>
 		<title>Mi Blog</title>
-		<link>https://jumiluga.github.io/miRSS.github.io/</link>
-		<description>Artículos interesantes sobre diversos temas.</description>
+		<link>https://jumiluga.github.io/miRSS.github.io</link>
+		<description>Artículos interesantes sobre diversos temas</description>
 		<language>es-es</language>
+		<lastBuildDate>Mon, 26 Apr 2023 00:00:00 GMT</lastBuildDate>
+		<item>
+			<title>Artículo 1</title>
+			<link>https://jumiluga.github.io/miRSS.github.io/articulo1</link>
+			<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ullamcorper eros sit amet lectus pretium auctor. Sed ac ultricies arcu. Proin eu nibh ac dolor eleifend malesuada. Donec vitae massa quis elit dictum rhoncus. Nam auctor pharetra tellus, eget rutrum libero ultricies sit amet.</description>
+			<pubDate>Mon, 26 Apr 2023 00:00:00 GMT</pubDate>
+			<guid>https://jumiluga.github.io/miRSS.github.io/articulo1</guid>
+		</item>
+		<item>
+			<title>Artículo 2</title>
+			<link>https://jumiluga.github.io/miRSS.github.io/articulo2</link>
+			<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ullamcorper eros sit amet lectus pretium auctor. Sed ac ultricies arcu. Proin eu nibh ac dolor eleifend malesuada. Donec vitae massa quis elit dictum rhoncus. Nam auctor pharetra tellus, eget rutrum libero ultricies sit amet.</description>
+			<pubDate>Sun, 25 Apr 2023 00:00:00 GMT</pubDate>
+			<guid>https://jumiluga.github.io/miRSS.github.io/articulo2</guid>
+		</item>
+		<item>
+			<title>Artículo 3</title>
+			<link>https://jumiluga.github.io/miRSS.github.io/articulo3</link>
+			<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ullamcorper eros sit amet lectus pretium auctor. Sed ac ultricies arcu. Proin eu nibh ac dolor eleifend malesuada. Donec vitae massa quis elit dictum rhoncus. Nam auctor pharetra tellus, eget rutrum libero ultricies sit amet.</description>
+			<pubDate>Sat, 24 Apr 2023 00:00:00 GMT</pubDate>
+			<guid>https://jumiluga.github.io/miRSS.github.io/articulo3</guid>
+		</item>
 	</channel>
 </rss>
